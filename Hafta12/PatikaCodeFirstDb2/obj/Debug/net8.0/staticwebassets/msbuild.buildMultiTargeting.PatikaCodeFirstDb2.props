@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\PatikaCodeFirstDb2.props" />
+</Project>
