@@ -1,0 +1,7 @@
+C:\Users\asus\source\repos\PratikFirstDbCode1\PratikFirstDbCode1\obj\Debug\net8.0\PratikFirstDbContex.csproj.AssemblyReference.cache
+C:\Users\asus\source\repos\PratikFirstDbCode1\PratikFirstDbCode1\obj\Debug\net8.0\PratikFirstDbContex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\source\repos\PratikFirstDbCode1\PratikFirstDbCode1\obj\Debug\net8.0\PratikFirstDbContex.AssemblyInfoInputs.cache
+C:\Users\asus\source\repos\PratikFirstDbCode1\PratikFirstDbCode1\obj\Debug\net8.0\PratikFirstDbContex.AssemblyInfo.cs
+C:\Users\asus\source\repos\PratikFirstDbCode1\PratikFirstDbCode1\obj\Debug\net8.0\PratikFirstDbContex.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\PratikFirstDbCode1\PratikFirstDbCode1\obj\Debug\net8.0\PratikFirstDbContex.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\asus\source\repos\PratikFirstDbCode1\PratikFirstDbCode1\obj\Debug\net8.0\PratikFirstDbContex.MvcApplicationPartsAssemblyInfo.cache
