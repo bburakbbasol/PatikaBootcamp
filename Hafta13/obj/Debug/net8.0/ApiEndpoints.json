@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "Pratik_DI.Controllers.ClassRoomController",
+    "Method": "GetTeacherInfo",
+    "RelativePath": "api/ClassRoom",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

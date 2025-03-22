@@ -1,0 +1,22 @@
+{
+  "openapi": "3.0.1",
+  "info": {
+    "title": "Pratik_DependencyInjection",
+    "version": "1.0"
+  },
+  "paths": {
+    "/api/ClassRoom": {
+      "get": {
+        "tags": [
+          "ClassRoom"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    }
+  },
+  "components": { }
+}
