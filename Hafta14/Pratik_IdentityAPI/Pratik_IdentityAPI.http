@@ -1,0 +1,6 @@
+@Pratik_IdentityAPI_HostAddress = http://localhost:5044
+
+GET {{Pratik_IdentityAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
